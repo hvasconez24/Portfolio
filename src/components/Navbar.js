@@ -112,6 +112,7 @@ const useStyles = makeStyles((theme) => ({
         }
     },
     menu:{
+        color: "#333",
         [theme.breakpoints.down("sm")]: {
             display: "none"
         },
