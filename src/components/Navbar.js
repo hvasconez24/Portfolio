@@ -7,6 +7,7 @@ import ContactMailIcon from '@mui/icons-material/ContactMail';
 import ArticleIcon from '@mui/icons-material/Article';
 import MenuIcon from '@mui/icons-material/Menu';
 import CancelIcon from '@mui/icons-material/Cancel';
+import star from '../images/star.png'
 
 const links = [
     {
@@ -38,7 +39,8 @@ const Navbar = () => {
         <>
         <AppBar position="sticky" className={classes.root}>
             <Toolbar className={classes.toolbar}>
-                <img className={classes.logo} alt="HILARY"/>
+                <img src={star} className={classes.logo} alt="HILARY"/>
+                <h3 className={classes.logo} >HILARY</h3>
                 <List className={classes.menu}>
                     {
                         links.map(({id,text}, index) => (
@@ -105,7 +107,7 @@ const useStyles = makeStyles((theme) => ({
     },
     logo: {
         height: "1.5rem",
-        color: "black",
+        color: "#d55499",
         objectFit: "contain",
         "&:hover":{
             cursor: "pointer"
