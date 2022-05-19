@@ -105,6 +105,7 @@ const useStyles = makeStyles((theme) => ({
     },
     logo: {
         height: "1.5rem",
+        color: "black",
         objectFit: "contain",
         "&:hover":{
             cursor: "pointer"
