@@ -5,10 +5,10 @@ Link Develop: https://hvasconez24.github.io/Self/
 ![alt tag](https://github.com/hvasconez24/Self/blob/main/src/images/portafolio.gif)
 
 # How to use
-Clone/Download the repo.
-Run npm install.
-Run app in development mode.
-Run npm start to spin the up the local dev server port 3000.(http://localhost:3000).
+#Clone/Download the repo.
+#Run npm install.
+#Run app in development mode.
+#Run npm start to spin the up the local dev server port 3000.(http://localhost:3000).
 
 ## Learn More
 
