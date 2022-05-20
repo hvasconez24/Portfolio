@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# React Portafolio
+Link Develop: 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Mocked-Up
 
 ## Available Scripts
+Clone/Download the repo.
+Run npm install.
+Run app in development mode.
+Run npm start to spin the up the local dev server port 3000.(http://localhost:3000).
+
 
 In the project directory, you can run:
 
