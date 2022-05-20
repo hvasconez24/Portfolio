@@ -3,7 +3,7 @@ Link Develop:
 
 # Mocked-Up
 
-## Available Scripts
+# How to use
 Clone/Download the repo.
 Run npm install.
 Run app in development mode.
