@@ -1,6 +1,6 @@
 import { AppBar, List, makeStyles, Toolbar, IconButton, Drawer, Divider, ListItem, ListItemIcon } from "@material-ui/core";
 import React, { useState } from "react";
-import {Link, animateScroll as scroll} from "react-scroll";
+import {Link} from "react-scroll";
 import InfoIcon from '@mui/icons-material/Info';
 import FolderIcon from '@mui/icons-material/Folder';
 import ContactMailIcon from '@mui/icons-material/ContactMail';

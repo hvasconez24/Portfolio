@@ -1,9 +1,7 @@
-import { Button, Card, CardContent, CardMedia, makeStyles, Typography } from "@material-ui/core";
+import { Card, CardContent, CardMedia, makeStyles, Typography } from "@material-ui/core";
 import React from "react";
 import avatar from "../images/avatar.jpg";
 import TypeWriterEffect from "react-typewriter-effect";
-import { CardActions } from "@mui/material";
-import Resume from "../images/Resume.pdf"
 
 const AboutMe = ({title, id, dark}) => {
     const classes = useStyles();

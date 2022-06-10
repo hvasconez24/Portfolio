@@ -4,6 +4,7 @@ import Delivery from "./images/Delivery.PNG";
 import Quiz from "./images/Quiz.PNG";
 import SpaceLaunch from "./images/SpaceLaunch.PNG";
 import Wheather from "./images/Wheather.PNG";
+import SmartStore from "./images/SmartStore.PNG";
 
 const projectData = [
     {
@@ -41,6 +42,12 @@ const projectData = [
         image: Budget,
         link: "https://serene-spire-66249.herokuapp.com",
         gitLink: "https://github.com/hvasconez24/budget"
+    },
+    {
+        title: "Smart-Store",
+        image: SmartStore,
+        link: "https://boiling-wave-89025.herokuapp.com/",
+        gitLink: "https://github.com/jciii91/smart-store"
     }
 ];
 
